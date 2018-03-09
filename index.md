@@ -12,7 +12,7 @@ This paper describes a novel hierarchical system for shared control of a humanoi
 <hr />
 ### Video
 
-[![ICHR_Video](https://img.youtube.com/vi/raOuSF0h07s/0.jpg)](https://youtu.be/raOuSF0h07s)
+<iframe width="854" height="480" src="https://www.youtube.com/embed/raOuSF0h07s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 <hr />
