@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Task Level Hierarchical System for BCI-enabled Shared Autonomy
 
-You can use the [editor on GitHub](https://github.com/CRLab/bci-enabled-robot-control/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#### Iretiayo Akinola, Boyuan Chen, Jonathan Koss, Aalhad Patankar, Jacob Varley  and Peter Allen
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![BCI Shared Autonomy System for controlling a mobile robot](./images/hri.png)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Abstract
+This paper describes a novel hierarchical system for shared control of a humanoid robot. Our framework uses a low-bandwidth Brain Computer Interface (BCI) to interpret electroencephalography (EEG) signals via Steady-State Visual Evoked Potentials (SSVEP). This BCI allows a user to reliably interact with the humanoid. Our system clearly delineates between autonomous robot operation and human-guided intervention and control.  Our shared-control system leverages the ability of the robot to accomplish low level tasks on its own, while the user assists the robot with high level directions when needed. This partnership prevents fatigue of the human controller by not requiring continuous BCI control to accomplish tasks which can be automated. We have tested the system in simulation and in real physical settings with multiple subjects using a Fetch mobile manipulator. Working together, the robot and human controller were able to accomplish tasks such as navigation, pick and place, and table clean up.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<hr />
+### Video
 
-- Bulleted
-- List
+[![ICHR_Video](https://img.youtube.com/vi/raOuSF0h07s/0.jpg)](https://youtu.be/raOuSF0h07s)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<hr />
+### Links
 
-[Link](url) and ![Image](src)
-```
+This work was published at Humanoids 2017. [Paper PDF](http://www.cs.columbia.edu/~allen/PAPERS/Humanoids_2017.pdf)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CRLab/bci-enabled-robot-control/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
